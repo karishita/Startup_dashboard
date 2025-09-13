@@ -1,0 +1,4 @@
+matplotlib
+streamlit==1.49.1
+matplotlib==3.10.6
+pandas
